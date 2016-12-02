@@ -1,0 +1,423 @@
+similarity_qa,similarity_aq,name,filename
+0.9900000095367432,0.9900000095367432,"NZ_LM995446.1 Escherichia coli genome assembly EcRV308Chr, chromosome : 1",GCF_000952955.1_EcRV308Chr_genomic.fna.gz.sig
+0.9819999933242798,0.9819999933242798,"NZ_CP010445.1 Escherichia coli K-12 strain ER3435, complete genome",GCF_000974885.1_ASM97488v1_genomic.fna.gz.sig
+0.9639999866485596,0.9639999866485596,"NZ_CP014272.1 Escherichia coli K-12 strain C3026, complete genome",GCF_001559675.1_ASM155967v1_genomic.fna.gz.sig
+0.9279999732971191,0.9279999732971191,"NZ_KB733182.1 Escherichia coli KTE197 genomic scaffold acASN-supercont1.1, whole genome shotgun sequence",GCF_000352945.1_Esch_coli_KTE197_V1_genomic.fna.gz.sig
+0.9139999747276306,0.9139999747276306,"NZ_JNQH01000001.1 Escherichia coli 2-210-07_S3_C1 e221007S3C1.contig.0_1, whole genome shotgun sequence",GCF_000704205.1_ASM70420v1_genomic.fna.gz.sig
+0.8960000276565552,0.8960000276565552,"NZ_JWZG01000001.1 Escherichia coli strain CVM N34564PS N34564PS_contig_1, whole genome shotgun sequence",GCF_000819125.1_Escherichia_coli_CVM_N34564PS_v1.0_genomic.fna.gz.sig
+0.8899999856948853,0.8899999856948853,"NZ_KB733419.1 Escherichia coli KTE156 genomic scaffold acEuf-supercont1.1, whole genome shotgun sequence",GCF_000351965.1_Esch_coli_KTE156_V1_genomic.fna.gz.sig
+0.8820000290870667,0.8820000290870667,"NZ_KQ087687.1 Escherichia coli strain MGH108 genomic scaffold aetAM-supercont1.1, whole genome shotgun sequence",GCF_001030405.1_Esch_coli_MGH108_V1_genomic.fna.gz.sig
+0.8740000128746033,0.8740000128746033,"NC_020518.1 Escherichia coli str. K-12 substr. MDS42 DNA, complete genome",GCF_000350185.1_ASM35018v1_genomic.fna.gz.sig
+0.8740000128746033,0.8740000128746033,"NZ_JHOD01000001.1 Escherichia coli O103:H11 str. 04-3023 contig1, whole genome shotgun sequence",GCF_000617045.2_Ec04-3023_genomic.fna.gz.sig
+0.8640000224113464,0.8640000224113464,"NZ_JJLI01000001.1 Escherichia coli 1-176-05_S4_C3 e117605S4C3.contig.0_1, whole genome shotgun sequence",GCF_000627135.1_ASM62713v1_genomic.fna.gz.sig
+0.8619999885559082,0.8619999885559082,"NZ_JHDJ01000001.1 Escherichia coli 1-110-08_S4_C2 e111008S4C2.contig.0_1, whole genome shotgun sequence",GCF_000601215.1_ASM60121v1_genomic.fna.gz.sig
+0.8619999885559082,0.8619999885559082,"NZ_JOQP01000001.1 Escherichia coli 5-172-05_S4_C1 e517205S4C1.contig.0_1, whole genome shotgun sequence",GCF_000714145.1_ASM71414v1_genomic.fna.gz.sig
+0.8600000143051147,0.8600000143051147,"NZ_AHHN01000001.1 Escherichia coli ECC-Z contig1, whole genome shotgun sequence",GCF_000498235.1_ASM49823v1_genomic.fna.gz.sig
+0.8600000143051147,0.8600000143051147,"NZ_AYJX01000001.1 Escherichia coli 148 contig0001, whole genome shotgun sequence",GCF_000511425.1_Ecoli148_genomic.fna.gz.sig
+0.8579999804496765,0.8579999804496765,"NZ_APXM01000001.1 Escherichia coli BCE011_MS-01 gecBCE011MS01.contig.0, whole genome shotgun sequence",GCF_000356285.2_ASM35628v2_genomic.fna.gz.sig
+0.8579999804496765,0.8579999804496765,"NZ_JHDI01000001.1 Escherichia coli 1-110-08_S4_C3 e111008S4C3.contig.0_1, whole genome shotgun sequence",GCF_000601235.1_ASM60123v1_genomic.fna.gz.sig
+0.8579999804496765,0.8579999804496765,"NZ_JNPV01000001.1 Escherichia coli 2-210-07_S1_C2 e221007S1C2.contig.0_1, whole genome shotgun sequence",GCF_000703905.1_ASM70390v1_genomic.fna.gz.sig
+0.8519999980926514,0.8519999980926514,"NZ_JVYF01000286.1 Shigella boydii strain 1220_SBOY 1013_7077_66526, whole genome shotgun sequence",GCF_001061275.1_ASM106127v1_genomic.fna.gz.sig
+0.8500000238418579,0.8500000238418579,"NZ_AQBR01000001.1 Escherichia coli P0305260.8 gecP03052608.contig.0, whole genome shotgun sequence",GCF_000358125.1_ASM35812v1_genomic.fna.gz.sig
+0.8500000238418579,0.8500000238418579,"NZ_JNQN01000001.1 Escherichia coli 2-222-05_S3_C3 e222205S3C3.contig.0_1, whole genome shotgun sequence",GCF_000704145.1_ASM70414v1_genomic.fna.gz.sig
+0.8479999899864197,0.8479999899864197,"NZ_JNRG01000001.1 Escherichia coli 2-474-04_S1_C1 e247404S1C1.contig.0_1, whole genome shotgun sequence",GCF_000704565.1_ASM70456v1_genomic.fna.gz.sig
+0.8479999899864197,0.8479999899864197,"NZ_LIUW01000001.1 Escherichia coli strain 33 contig000001, whole genome shotgun sequence",GCF_001419785.1_ASM141978v1_genomic.fna.gz.sig
+0.8460000157356262,0.8460000157356262,"NZ_LIVE01000001.1 Escherichia coli strain 221 contig000001, whole genome shotgun sequence",GCF_001419965.1_ASM141996v1_genomic.fna.gz.sig
+0.8399999737739563,0.8399999737739563,"NZ_JORK01000001.1 Escherichia coli 6-175-07_S4_C3 e617507S4C3.contig.0_1, whole genome shotgun sequence",GCF_000713175.1_ASM71317v1_genomic.fna.gz.sig
+0.8399999737739563,0.8399999737739563,"NZ_JUCP01000001.1 Escherichia coli strain CVM N36225PS N36225PS_contig_1, whole genome shotgun sequence",GCF_000797595.1_Escherichia_coli_CVM_N36225PS_v._1.0_genomic.fna.gz.sig
+0.8399999737739563,0.8399999737739563,"NZ_LKJM01000001.1 Escherichia coli strain TTU2014-148AME scaffold_0, whole genome shotgun sequence",GCF_001446455.1_ASM144645v1_genomic.fna.gz.sig
+0.8320000171661377,0.8320000171661377,"NZ_JORZ01000001.1 Escherichia coli 8-415-05_S1_C1 e841505S1C1.contig.0_1, whole genome shotgun sequence",GCF_000713425.1_ASM71342v1_genomic.fna.gz.sig
+0.8320000171661377,0.8320000171661377,"NZ_LJDY01000001.1 Escherichia coli strain ST167:947385799 MIRA_c1, whole genome shotgun sequence",GCF_001316875.1_ASM131687v1_genomic.fna.gz.sig
+0.8299999833106995,0.8299999833106995,"NZ_LFIN01000001.1 Escherichia coli strain C41(DE3) contig1, whole genome shotgun sequence",GCF_001187545.1_ASM118754v1_genomic.fna.gz.sig
+0.8259999752044678,0.8259999752044678,"NZ_KB732647.1 Escherichia coli KTE51 genomic scaffold acEnB-supercont1.1, whole genome shotgun sequence",GCF_000351465.1_Esch_coli_KTE51_V1_genomic.fna.gz.sig
+0.8180000185966492,0.8180000185966492,"NZ_JRGC01000001.1 Escherichia coli strain 77300132 NODE_1, whole genome shotgun sequence",GCF_000754855.1_ASM75485v1_genomic.fna.gz.sig
+0.8180000185966492,0.8180000185966492,"NZ_LAXC01000001.1 Escherichia coli strain ST-44 contig_1, whole genome shotgun sequence",GCF_000981065.1_ASM98106v1_genomic.fna.gz.sig
+0.8180000185966492,0.8180000185966492,"NZ_CXYS01000001.1 Escheichia coli genome assembly YE26, contig YE26_1, whole genome shotgun sequence",GCF_001269125.1_YE26_genomic.fna.gz.sig
+0.8159999847412109,0.8159999847412109,"NZ_JNPE01000001.1 Escherichia coli 2-156-04_S1_C3 e215604S1C3.contig.0_1, whole genome shotgun sequence",GCF_000703505.1_ASM70350v1_genomic.fna.gz.sig
+0.8159999847412109,0.8159999847412109,"NZ_JNPS01000001.1 Escherichia coli 2-005-03_S4_C1 e200503S4C1.contig.0_1, whole genome shotgun sequence",GCF_000703845.1_ASM70384v1_genomic.fna.gz.sig
+0.8140000104904175,0.8140000104904175,"NZ_JHJW01000001.1 Escherichia coli O6:H16 str. 99-3165 contig1, whole genome shotgun sequence",GCF_000614435.2_Ec99-3165_genomic.fna.gz.sig
+0.8119999766349792,0.8119999766349792,"NZ_JNQI01000001.1 Escherichia coli 2-210-07_S4_C2 e221007S4C2.contig.0_1, whole genome shotgun sequence",GCF_000704185.1_ASM70418v1_genomic.fna.gz.sig
+0.8100000023841858,0.8100000023841858,"NZ_JHDL01000001.1 Escherichia coli 1-110-08_S3_C3 e111008S3C3.contig.0_1, whole genome shotgun sequence",GCF_000601335.1_ASM60133v1_genomic.fna.gz.sig
+0.8100000023841858,0.8100000023841858,"NZ_JRQF01000001.1 Escherichia coli strain 77.3025.33 contig_1, whole genome shotgun sequence",GCF_000768125.1_ASM76812v1_genomic.fna.gz.sig
+0.8080000281333923,0.8080000281333923,"NZ_JHDN01000001.1 Escherichia coli 1-110-08_S3_C1 e111008S3C1.contig.0_1, whole genome shotgun sequence",GCF_000601155.1_ASM60115v1_genomic.fna.gz.sig
+0.8059999942779541,0.8059999942779541,"NC_009800.1 Escherichia coli HS, complete genome",GCF_000017765.1_ASM1776v1_genomic.fna.gz.sig
+0.8019999861717224,0.8019999861717224,"NZ_AQEU01000001.1 Escherichia coli MP021566.1 gecMP0215661.contig.0, whole genome shotgun sequence",GCF_000354855.1_ASM35485v1_genomic.fna.gz.sig
+0.8019999861717224,0.8019999861717224,"NZ_KN711363.1 Escherichia coli strain CE549 genomic scaffold scaffold60, whole genome shotgun sequence",GCF_000806245.1_ASM80624v1_genomic.fna.gz.sig
+0.800000011920929,0.800000011920929,"NZ_CXYJ01000001.1 Escheichia coli genome assembly YE19, contig YE19_1, whole genome shotgun sequence",GCF_001268685.1_YE19_genomic.fna.gz.sig
+0.7960000038146973,0.7960000038146973,"NZ_JRRX01000072.1 Escherichia coli strain RU1 LB3 NODE_101_S001012, whole genome shotgun sequence",GCF_001413555.1_ASM141355v1_genomic.fna.gz.sig
+0.7960000038146973,0.7960000038146973,"NZ_LLYP01000001.1 Escherichia coli strain AZ77, whole genome shotgun sequence",GCF_001484415.1_ASM148441v1_genomic.fna.gz.sig
+0.7940000295639038,0.7940000295639038,"NZ_JRRS01000080.1 Escherichia coli strain RU1 MA10 NODE_101_S001007, whole genome shotgun sequence",GCF_001413485.1_ASM141348v1_genomic.fna.gz.sig
+0.7900000214576721,0.7900000214576721,"NZ_APZM01000001.1 Escherichia coli BCE006_MS-23 gecBCE006MS23.contig.0, whole genome shotgun sequence",GCF_000356885.2_ASM35688v2_genomic.fna.gz.sig
+0.7879999876022339,0.7879999876022339,"NZ_LIVH01000001.1 Escherichia coli strain 233 contig000001, whole genome shotgun sequence",GCF_001420045.1_ASM142004v1_genomic.fna.gz.sig
+0.7860000133514404,0.7860000133514404,"NZ_JNMO01000001.1 Escherichia coli 3-105-05_S3_C3 e310505S3C3.contig.0_1, whole genome shotgun sequence",GCF_000700385.1_ASM70038v1_genomic.fna.gz.sig
+0.777999997138977,0.777999997138977,"NZ_JNMX01000001.1 Escherichia coli 3-475-03_S4_C2 e347503S4C2.contig.0_1, whole genome shotgun sequence",GCF_000700685.1_ASM70068v1_genomic.fna.gz.sig
+0.7760000228881836,0.7760000228881836,"NZ_CCPP01000001.1 Escherichia coli genome assembly FHI101, contig scaffold-1_contig-1.0_1_2087_[organism:Escherichia, whole genome shotgun sequence",GCF_000752895.1_FHI101_genomic.fna.gz.sig
+0.7680000066757202,0.7680000066757202,"NZ_JDWT01000001.1 Escherichia coli 4552-1 4552_1_1, whole genome shotgun sequence",GCF_000699285.1_4552-1_genomic.fna.gz.sig
+0.7680000066757202,0.7680000066757202,"NZ_JUCK01000001.1 Escherichia coli strain CVM N36401PS N36401PS_contig_1, whole genome shotgun sequence",GCF_000797655.1_Escherichia_coli_CVM_N36401PS_v._1.0_genomic.fna.gz.sig
+0.7639999985694885,0.7639999985694885,"NZ_JDWU01000001.1 Escherichia coli 4541-1 4541_1_1, whole genome shotgun sequence",GCF_000699265.1_4541-1_genomic.fna.gz.sig
+0.7639999985694885,0.7639999985694885,"NZ_CXWU01000001.1 Escheichia coli genome assembly 1.EC2990.1, contig E819_1, whole genome shotgun sequence",GCF_001268225.1_1.EC2990.1_genomic.fna.gz.sig
+0.7620000243186951,0.7620000243186951,"NZ_LDYL01000039.1 Escherichia coli strain DM18-3, whole genome shotgun sequence",GCF_001309535.1_ASM130953v1_genomic.fna.gz.sig
+0.7580000162124634,0.7580000162124634,"NZ_JSQT01000001.1 Escherichia coli strain blood-10-0038 blood-10-0038_ctg_1111, whole genome shotgun sequence",GCF_000781775.1_ASM78177v1_genomic.fna.gz.sig
+0.75,0.75,"NZ_APWY01000001.1 Escherichia coli 178200 gec178200.contig.0, whole genome shotgun sequence",GCF_000358895.1_ASM35889v1_genomic.fna.gz.sig
+0.75,0.75,"NZ_KI538729.1 Escherichia coli HVH 152 (4-3447545) genomic scaffold acYwU-supercont1.1, whole genome shotgun sequence",GCF_000495035.1_Esch_coli_HVH_152_4-3447545_V1_genomic.fna.gz.sig
+0.7480000257492065,0.7480000257492065,"NZ_KB733086.1 Escherichia coli KTE135 genomic scaffold acASy-supercont1.1, whole genome shotgun sequence",GCF_000352585.1_Esch_coli_KTE135_V1_genomic.fna.gz.sig
+0.7480000257492065,0.7480000257492065,"NZ_JWKC01000001.1 Escherichia coli strain EC2 Contig1, whole genome shotgun sequence",GCF_000812255.1_ASM81225v1_genomic.fna.gz.sig
+0.7419999837875366,0.7419999837875366,"NZ_CXYP01000001.1 Escheichia coli genome assembly YE29, contig YE29_1, whole genome shotgun sequence",GCF_001268605.1_YE29_genomic.fna.gz.sig
+0.7379999756813049,0.7379999756813049,"NZ_ADWV01000072.1 Escherichia coli MS 107-1 E_coliMS107-1-1.0.1_Cont71.1, whole genome shotgun sequence",GCF_000179175.1_ASM17917v1_genomic.fna.gz.sig
+0.734000027179718,0.734000027179718,"NZ_KI530623.1 Escherichia coli UMEA 3336-1 genomic scaffold addSZ-supercont1.1, whole genome shotgun sequence",GCF_000488055.1_Esch_coli_UMEA_3336-1_V1_genomic.fna.gz.sig
+0.7319999933242798,0.7319999933242798,"NZ_APZU01000001.1 Escherichia coli P0301867.2 gecP03018672.contig.0, whole genome shotgun sequence",GCF_000356025.2_ASM35602v2_genomic.fna.gz.sig
+0.7319999933242798,0.7319999933242798,"NZ_LDCT01000001.1 Escherichia coli strain CFSAN026774 CFSAN026774_contig0000, whole genome shotgun sequence",GCF_001012585.1_CFSAN026774_02.0_genomic.fna.gz.sig
+0.7279999852180481,0.7279999852180481,"NZ_APYV01000001.1 Escherichia coli P0301867.4 gecP03018674.contig.0, whole genome shotgun sequence",GCF_000356005.2_ASM35600v2_genomic.fna.gz.sig
+0.7260000109672546,0.7260000109672546,"NZ_JUCZ01000001.1 Escherichia coli strain CVM N34077PS N34077PS_contig_1, whole genome shotgun sequence",GCF_000798155.1_Escherichia_coli_CVM_N34077PS_v._1.0_genomic.fna.gz.sig
+0.7260000109672546,0.7260000109672546,"NZ_LFKA01000051.1 Escherichia coli strain KIC-1 map unlocalized plasmid unnamed contig0051, whole genome shotgun sequence",GCF_001077865.1_ASM107786v1_genomic.fna.gz.sig
+0.7179999947547913,0.7179999947547913,"NZ_LGZY01000001.1 Escherichia coli strain CFSAN026832 2011-0-2514_S11_L001_R1_001_(paired)_contig_1, whole genome shotgun sequence",GCF_001191355.1_CFSAN026832_01-NGE.clc_genomic.fna.gz.sig
+0.7179999947547913,0.7179999947547913,"NZ_CP014197.1 Escherichia coli strain MRE600, complete genome",GCF_001542675.1_ASM154267v1_genomic.fna.gz.sig
+0.7160000205039978,0.7160000205039978,"NZ_ANYJ01000001.1 Escherichia coli KTE163 acwoM-supercont1.1, whole genome shotgun sequence",GCF_000326425.1_Esch_coli_KTE163_V1_genomic.fna.gz.sig
+0.7160000205039978,0.7160000205039978,"NZ_KB732513.1 Escherichia coli KTE210 genomic scaffold acEoo-supercont1.1, whole genome shotgun sequence",GCF_000351145.1_Esch_coli_KTE210_V1_genomic.fna.gz.sig
+0.7160000205039978,0.7160000205039978,"NZ_KI530769.1 Escherichia coli 113302 genomic scaffold Scaffold0, whole genome shotgun sequence",GCF_000488295.1_ASM48829v1_genomic.fna.gz.sig
+0.7160000205039978,0.7160000205039978,"NZ_JASQ01000001.1 Escherichia coli O91:H21 str. 2009C-3740 contig1, whole genome shotgun sequence",GCF_000703265.1_Ec2009C-3740_genomic.fna.gz.sig
+0.7139999866485596,0.7139999866485596,"NZ_AHZD02000052.1 Escherichia coli O157:H43 str. T22 map unlocalized plasmid pT22 contig52, whole genome shotgun sequence",GCF_000247665.3_EcoliT22_2.0_genomic.fna.gz.sig
+0.7139999866485596,0.7139999866485596,"NZ_JHNY01000001.1 Escherichia coli O28ac:NM str. 02-3404 contig1, whole genome shotgun sequence",GCF_000617165.2_Ec02-3404_genomic.fna.gz.sig
+0.7139999866485596,0.7139999866485596,"NZ_CP010344.1 Escherichia coli ECC-1470, complete genome",GCF_000831565.1_ASM83156v1_genomic.fna.gz.sig
+0.7120000123977661,0.7120000123977661,"NZ_AIGA01000064.1 Escherichia coli DEC7A gecDEC7A.contig.64_1, whole genome shotgun sequence",GCF_000249695.1_ASM24969v2_genomic.fna.gz.sig
+0.7120000123977661,0.7120000123977661,"NZ_AQCE01000001.1 Escherichia coli p0305293.9 gecp03052939.contig.0, whole genome shotgun sequence",GCF_000358715.2_ASM35871v2_genomic.fna.gz.sig
+0.7120000123977661,0.7120000123977661,"NZ_LBBE01000001.1 Escherichia coli strain avian5 contig00001, whole genome shotgun sequence",GCF_000987545.1_ASM98754v1_genomic.fna.gz.sig
+0.7120000123977661,0.7120000123977661,"NZ_CXCZ01000001.1 Shigella sonnei genome assembly 5236_6#8, scaffold ERS009849SCcontig000001, whole genome shotgun sequence",GCF_001249915.1_5236_6_8_genomic.fna.gz.sig
+0.7120000123977661,0.7120000123977661,"NZ_LIVL01000001.1 Escherichia coli strain 449 contig000001, whole genome shotgun sequence",GCF_001420165.1_ASM142016v1_genomic.fna.gz.sig
+0.7099999785423279,0.7099999785423279,"NZ_JORX01000001.1 Escherichia coli 6-537-08_S3_C2 e653708S3C2.contig.0_1, whole genome shotgun sequence",GCF_000713415.1_ASM71341v1_genomic.fna.gz.sig
+0.7099999785423279,0.7099999785423279,"NZ_JWZQ01000001.1 Escherichia coli strain CVM N33574PS N33574PS_contig_1, whole genome shotgun sequence",GCF_000819355.1_Escherichia_coli_CVM_N33574PS_v1.0_genomic.fna.gz.sig
+0.7099999785423279,0.7099999785423279,"NZ_LHCP01000001.1 Escherichia coli strain CFSAN026803 contig_1, whole genome shotgun sequence",GCF_001262855.1_ASM126285v1_genomic.fna.gz.sig
+0.7099999785423279,0.7099999785423279,"NZ_CYFB01000001.1 Escherichia coli genome assembly 8205_3#6, scaffold ERS139203SCcontig000001, whole genome shotgun sequence",GCF_001286105.1_8205_3_6_genomic.fna.gz.sig
+0.7080000042915344,0.7080000042915344,"NZ_AFAC02000013.1 Escherichia coli 3.3884 Contig1, whole genome shotgun sequence",GCF_000215285.1_ASM21528v2_genomic.fna.gz.sig
+0.7080000042915344,0.7080000042915344,"NZ_KE700128.1 Escherichia coli HVH 139 (4-3192644) genomic scaffold acYzg-supercont1.1, whole genome shotgun sequence",GCF_000458035.1_Esch_coli_HVH_139_4-3192644_V1_genomic.fna.gz.sig
+0.7059999704360962,0.7059999704360962,"NZ_AQAP01000001.1 Escherichia coli P0304777.5 gecP03047775.contig.0, whole genome shotgun sequence",GCF_000358335.2_ASM35833v2_genomic.fna.gz.sig
+0.7059999704360962,0.7059999704360962,"NZ_CBWC010000001.1 Escherichia coli IS9 WGS project CBWC000000000 data, contig c174, whole genome shotgun sequence",GCF_000689315.1_IS9_genomic.fna.gz.sig
+0.7059999704360962,0.7059999704360962,"NZ_JSOP01000004.1 Escherichia coli strain upec-111 upec-111_ctg_1004, whole genome shotgun sequence",GCF_000781275.1_ASM78127v1_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_GL884249.1 Escherichia coli TA271 genomic scaffold supercont1.1, whole genome shotgun sequence",GCF_000176635.2_ASM17663v2_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_AIBN01000001.1 Escherichia coli C743_03 C743_03_2, whole genome shotgun sequence",GCF_000446805.2_ASM44680v2_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_KE699855.1 Escherichia coli HVH 115 (4-4465997) genomic scaffold acYyp-supercont1.1, whole genome shotgun sequence",GCF_000457635.1_Esch_coli_HVH_115_4-4465997_V1_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_JXWD01000001.1 Escherichia coli strain OLC-732 Cont0001, whole genome shotgun sequence",GCF_000948825.1_ASM94882v1_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_CXEL01000001.1 Shigella sonnei genome assembly 5417_1#5, scaffold ERS008166SCcontig000001, whole genome shotgun sequence",GCF_001250735.1_5417_1_5_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_CXKM01000001.1 Shigella sonnei genome assembly 8290_4#43, scaffold ERS127163SCcontig000001, whole genome shotgun sequence",GCF_001258315.1_8290_4_43_genomic.fna.gz.sig
+0.7039999961853027,0.7039999961853027,"NZ_CYFL01000001.1 Escherichia coli genome assembly 8205_3#75, scaffold ERS139272SCcontig000001, whole genome shotgun sequence",GCF_001285685.1_8205_3_75_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_ANYW01000001.1 Escherichia coli KTE90 acwoK-supercont1.1, whole genome shotgun sequence",GCF_000326645.1_Esch_coli_KTE90_V1_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_APYG01000001.1 Escherichia coli P0299438.7 gecP02994387.contig.0, whole genome shotgun sequence",GCF_000357245.1_ASM35724v1_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_KI522020.1 Escherichia coli 907357 genomic scaffold Scaffold0, whole genome shotgun sequence",GCF_000485675.1_ASM48567v1_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_CXIX01000001.1 Shigella sonnei genome assembly 8289_7#84, scaffold ERS127108SCcontig000001, whole genome shotgun sequence",GCF_001251575.1_8289_7_84_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_CXCI01000001.1 Shigella sonnei genome assembly 5236_3#4, scaffold ERS009821SCcontig000001, whole genome shotgun sequence",GCF_001253935.1_5236_3_4_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_CXJE01000001.1 Shigella sonnei genome assembly 8289_7#90, scaffold ERS127114SCcontig000001, whole genome shotgun sequence",GCF_001261035.1_8289_7_90_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_CYFC01000001.1 Escherichia coli genome assembly 8205_3#69, scaffold ERS139266SCcontig000001, whole genome shotgun sequence",GCF_001284185.1_8205_3_69_genomic.fna.gz.sig
+0.7020000219345093,0.7020000219345093,"NZ_CYCD01000001.1 Escherichia coli genome assembly 7790_1#68, scaffold ERS085401SCcontig000001, whole genome shotgun sequence",GCF_001286045.1_7790_1_68_genomic.fna.gz.sig
+0.699999988079071,0.699999988079071,"NZ_AQFE01000001.1 Escherichia coli 2726800 gec2726800.contig.0, whole genome shotgun sequence",GCF_000356625.2_ASM35662v2_genomic.fna.gz.sig
+0.699999988079071,0.699999988079071,"NZ_JHLR01000001.1 Escherichia coli O121:H19 str. 2011C-3537 contig1, whole genome shotgun sequence",GCF_000616245.1_Ec2011C-3537_genomic.fna.gz.sig
+0.699999988079071,0.699999988079071,"NZ_JUDP01000001.1 Escherichia coli strain CVM N33443PS N33443PS_contig_1, whole genome shotgun sequence",GCF_000797755.1_Escherichia_coli_CVM_N33443PS_v._1.0_genomic.fna.gz.sig
+0.699999988079071,0.699999988079071,"NZ_CXEW01000001.1 Shigella sonnei genome assembly 5417_3#6, scaffold ERS008191SCcontig000001, whole genome shotgun sequence",GCF_001260755.1_5417_3_6_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_AQDC01000001.1 Escherichia coli 2872800 gec2872800.contig.0, whole genome shotgun sequence",GCF_000354455.1_ASM35445v1_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_AIBD01000001.1 Escherichia coli C527_94 C527_94_2, whole genome shotgun sequence",GCF_000446625.2_ASM44662v2_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_AYRW01000001.1 Escherichia coli ATCC BAA-2219 Cont1, whole genome shotgun sequence",GCF_000508385.1_Q460_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_JHGN01000001.1 Escherichia coli O121:H19 str. 2009C-4659 contig1, whole genome shotgun sequence",GCF_000614765.2_Ec2009C-4659_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_JHGG01000001.1 Escherichia coli O121:H19 str. 2009EL1412 contig1, whole genome shotgun sequence",GCF_000614925.2_Ec2009EL1412_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_JHML01000001.1 Escherichia coli O121:H19 str. 2010C-4966 contig1, whole genome shotgun sequence",GCF_000617605.2_Ec2010C-4966_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_APWX01000001.1 Escherichia coli O174:H21 strain 220/00 contig_1, whole genome shotgun sequence",GCF_000647515.1_220_00_clc_bio_denovo_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_CXIJ01000001.1 Shigella sonnei genome assembly 8289_7#69, scaffold ERS127093SCcontig000001, whole genome shotgun sequence",GCF_001250775.1_8289_7_69_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_CWZP01000001.1 Shigella sonnei genome assembly 12971_8#61, scaffold ERS432292SCcontig000001, whole genome shotgun sequence",GCF_001252395.1_12971_8_61_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_CXJD01000001.1 Shigella sonnei genome assembly 8289_7#91, scaffold ERS127115SCcontig000001, whole genome shotgun sequence",GCF_001256855.1_8289_7_91_genomic.fna.gz.sig
+0.6980000138282776,0.6980000138282776,"NZ_LQSA01000001.1 Escherichia coli strain GN02055 GCID_ECOLID_00008_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001519445.1_ASM151944v1_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_AIHI01000042.1 Escherichia coli DEC13D gecDEC13D.contig.41_1, whole genome shotgun sequence",GCF_000250375.1_ASM25037v2_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_AQAE01000001.1 Escherichia coli P0302293.8 gecP03022938.contig.0, whole genome shotgun sequence",GCF_000356965.1_ASM35696v1_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_CCQK01000001.1 Escherichia coli genome assembly FHI56, contig scaffold-1_contig-1.0_1_60642_[organism:Escherichia, whole genome shotgun sequence",GCF_000752735.1_FHI56_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_JWZH01000001.1 Escherichia coli strain CVM N34228PS N34228PS_contig_1, whole genome shotgun sequence",GCF_000819065.1_Escherichia_coli_CVM_N34228PS_v1.0_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_JYIA01000001.1 Escherichia coli strain F6700 Contig_0000001, whole genome shotgun sequence",GCF_000935505.1_ASM93550v1_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_CXIB01000001.1 Shigella sonnei genome assembly 8289_7#60, scaffold ERS127084SCcontig000001, whole genome shotgun sequence",GCF_001249655.1_8289_7_60_genomic.fna.gz.sig
+0.6959999799728394,0.6959999799728394,"NZ_CXEN01000001.1 Shigella sonnei genome assembly 5417_1#8, scaffold ERS008169SCcontig000001, whole genome shotgun sequence",GCF_001258415.1_5417_1_8_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_AQDP01000001.1 Escherichia coli 2850400 gec2850400.contig.0, whole genome shotgun sequence",GCF_000355055.1_ASM35505v1_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_APXJ01000001.1 Escherichia coli 2866350 gec2866350.contig.0, whole genome shotgun sequence",GCF_000356505.2_ASM35650v2_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_AIAJ01000001.1 Escherichia coli C170_11 C170_11_2, whole genome shotgun sequence",GCF_000447145.2_ASM44714v2_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_AYQK01000001.1 Escherichia coli 1365 contig0001, whole genome shotgun sequence",GCF_000503275.1_Ecoli1365_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_LM996884.1 Escherichia coli genome assembly FHI83, scaffold scaffold-1_contig-26.0_1_2008_[organism:Escherichia",GCF_000938695.1_FHI83_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_LK931503.1 Escherichia coli genome assembly StOlav104, scaffold scaffold-1",GCF_000947315.1_StOlav104_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_CWTJ01000001.1 Shigella sonnei genome assembly H14112034001, scaffold SCcontig000001, whole genome shotgun sequence",GCF_001260375.1_H14112034001_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_CWYQ01000001.1 Shigella sonnei genome assembly 12971_8#36, scaffold ERS432261SCcontig000001, whole genome shotgun sequence",GCF_001260895.1_12971_8_36_genomic.fna.gz.sig
+0.6940000057220459,0.6940000057220459,"NZ_CYDL01000001.1 Escherichia coli genome assembly 8205_3#21, scaffold ERS139218SCcontig000001, whole genome shotgun sequence",GCF_001284945.1_8205_3_21_genomic.fna.gz.sig
+0.6919999718666077,0.6919999718666077,"NZ_AAJT02000289.1 Escherichia coli B7A gcontig_1112495761608, whole genome shotgun sequence",GCF_000167815.1_ASM16781v1_genomic.fna.gz.sig
+0.6919999718666077,0.6919999718666077,"NZ_AICC01000001.1 Escherichia coli C900_01 C900_01_2, whole genome shotgun sequence",GCF_000447085.2_ASM44708v2_genomic.fna.gz.sig
+0.6919999718666077,0.6919999718666077,"NZ_KE702480.1 Escherichia coli UMEA 3671-1 genomic scaffold acXux-supercont1.1, whole genome shotgun sequence",GCF_000461515.1_Esch_coli_UMEA_3671-1_V1_genomic.fna.gz.sig
+0.6919999718666077,0.6919999718666077,"NZ_CXNA01000001.1 Shigella sonnei genome assembly 9870_6#38, scaffold ERS222004SCcontig000001, whole genome shotgun sequence",GCF_001256895.1_9870_6_38_genomic.fna.gz.sig
+0.6899999976158142,0.6899999976158142,"NZ_AEZT02000049.1 Escherichia coli 93.0624 Contig573958657, whole genome shotgun sequence",GCF_000215225.1_ASM21522v2_genomic.fna.gz.sig
+0.6899999976158142,0.6899999976158142,"NZ_KB021522.1 Escherichia coli O104:H4 str. Ec11-4987 genomic scaffold supercont1.1, whole genome shotgun sequence",GCF_000319975.1_Esch_coli_Ec11-4987_V1_genomic.fna.gz.sig
+0.6899999976158142,0.6899999976158142,"NZ_AQEZ01000001.1 Escherichia coli MP020940.1 gecMP020940.contig.0, whole genome shotgun sequence",GCF_000355275.2_ASM35527v2_genomic.fna.gz.sig
+0.6899999976158142,0.6899999976158142,"NZ_CXLH01000001.1 Shigella sonnei genome assembly 8290_4#93, scaffold ERS127213SCcontig000001, whole genome shotgun sequence",GCF_001246155.1_8290_4_93_genomic.fna.gz.sig
+0.6899999976158142,0.6899999976158142,"NZ_CXGB01000001.1 Shigella sonnei genome assembly 6551_1#10, scaffold ERS024600SCcontig000001, whole genome shotgun sequence",GCF_001246675.1_6551_1_10_genomic.fna.gz.sig
+0.6899999976158142,0.6899999976158142,"NZ_CXAD01000001.1 Shigella sonnei genome assembly 12971_8#74, scaffold ERS432306SCcontig000001, whole genome shotgun sequence",GCF_001257015.1_12971_8_74_genomic.fna.gz.sig
+0.6880000233650208,0.6880000233650208,"NZ_AIGL01000064.1 Escherichia coli DEC9B gecDEC9B.contig.64_1, whole genome shotgun sequence",GCF_000249915.1_ASM24991v2_genomic.fna.gz.sig
+0.6880000233650208,0.6880000233650208,"NZ_CXJS01000001.1 Shigella sonnei genome assembly 8290_4#10, scaffold ERS127130SCcontig000001, whole genome shotgun sequence",GCF_001251375.1_8290_4_10_genomic.fna.gz.sig
+0.6880000233650208,0.6880000233650208,"NZ_CXNN01000001.1 Shigella sonnei genome assembly 9870_7#1, scaffold ERS222031SCcontig000001, whole genome shotgun sequence",GCF_001252115.1_9870_7_1_genomic.fna.gz.sig
+0.6880000233650208,0.6880000233650208,"NZ_CXAL01000001.1 Shigella sonnei genome assembly 12971_8#8, scaffold ERS432224SCcontig000001, whole genome shotgun sequence",GCF_001259455.1_12971_8_8_genomic.fna.gz.sig
+0.6880000233650208,0.6880000233650208,"NZ_CXGR01000001.1 Shigella sonnei genome assembly 7655_8#11, scaffold ERS088084SCcontig000001, whole genome shotgun sequence",GCF_001260275.1_7655_8_11_genomic.fna.gz.sig
+0.6880000233650208,0.6880000233650208,"NZ_CYAY01000001.1 Escherichia coli genome assembly 7748_7#17, scaffold ERS085350SCcontig000001, whole genome shotgun sequence",GCF_001286405.1_7748_7_17_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_KB021552.1 Escherichia coli O104:H4 str. Ec11-4984 genomic scaffold supercont1.1, whole genome shotgun sequence",GCF_000319915.1_Esch_coli_Ec11-4984_V1_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_AOGM01000001.1 Escherichia coli O08 contig01, whole genome shotgun sequence",GCF_000340235.1_O8_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_AIAS01000001.1 Escherichia coli C341_10 C341_10_2, whole genome shotgun sequence",GCF_000446405.2_ASM44640v2_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_JHLV01000001.1 Escherichia coli O26:H11 str. 2011C-3387 contig1, whole genome shotgun sequence",GCF_000622815.1_Ec2011C-3387_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_JUCD01000001.1 Escherichia coli strain CVM N36903PS N36903PS_contig_1, whole genome shotgun sequence",GCF_000798555.1_Escherichia_coli_CVM_N36903PS_v._1.0_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_JWJM01000001.1 Escherichia coli strain 912 NODE_1, whole genome shotgun sequence",GCF_000806195.1_ASM80619v1_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_CXAZ01000001.1 Shigella sonnei genome assembly 5008_8#11, scaffold ERS009907SCcontig000001, whole genome shotgun sequence",GCF_001251955.1_5008_8_11_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_CXFH01000001.1 Shigella sonnei genome assembly 6350_1#11, scaffold ERS025886SCcontig000001, whole genome shotgun sequence",GCF_001253415.1_6350_1_11_genomic.fna.gz.sig
+0.6859999895095825,0.6859999895095825,"NZ_CXHD01000001.1 Shigella sonnei genome assembly 8289_7#35, scaffold ERS127059SCcontig000001, whole genome shotgun sequence",GCF_001260395.1_8289_7_35_genomic.fna.gz.sig
+0.6840000152587891,0.6840000152587891,"NZ_APYK01000001.1 Escherichia coli P0299917.10 gecP029991710.contig.0, whole genome shotgun sequence",GCF_000357165.1_ASM35716v1_genomic.fna.gz.sig
+0.6840000152587891,0.6840000152587891,"NZ_CXFZ01000001.1 Shigella sonnei genome assembly 6496_8#11, scaffold ERS024589SCcontig000001, whole genome shotgun sequence",GCF_001248405.1_6496_8_11_genomic.fna.gz.sig
+0.6840000152587891,0.6840000152587891,"NZ_CWUF01000001.1 Shigella sonnei genome assembly H14138024801, scaffold SCcontig000001, whole genome shotgun sequence",GCF_001257395.1_H14138024801_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_AGTK01000433.1 Escherichia coli O45:H2 str. 03-EN-705 EC1674_contig_433, whole genome shotgun sequence",GCF_000234295.1_ASM23429v2_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_JH590605.1 Escherichia coli H494 genomic scaffold supercont1.1, whole genome shotgun sequence",GCF_000242035.1_Esch_coli_H494_V1_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_AQDJ01000001.1 Escherichia coli 2865200 gec2865200.contig.0, whole genome shotgun sequence",GCF_000354975.1_ASM35497v1_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_APYO01000001.1 Escherichia coli P0299917.5 gecP02999175.contig.0, whole genome shotgun sequence",GCF_000357325.1_ASM35732v1_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_JHFG01000001.1 Escherichia coli O111:NM str. 2010C-3977 contig1, whole genome shotgun sequence",GCF_000615575.2_Ec2010C-3977_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_JHHM01000001.1 Escherichia coli O111:NM str. K6908 contig1, whole genome shotgun sequence",GCF_000619605.1_EcK6908_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_JHGB01000001.1 Escherichia coli O111:H8 str. 2009EL-2169 contig1, whole genome shotgun sequence",GCF_000632595.2_Ec2009EL-2169_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_JHEX01000001.1 Escherichia coli strain PMK-5 EC1654_c1, whole genome shotgun sequence",GCF_000695135.1_Ecoli97-3250v1_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_LDDF01000001.1 Escherichia coli strain CFSAN026812 CFSAN026812_contig0000, whole genome shotgun sequence",GCF_001012355.1_CFSAN026812_01.0_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_CWUO01000001.1 Shigella sonnei genome assembly H14148037701, scaffold SCcontig000001, whole genome shotgun sequence",GCF_001248665.1_H14148037701_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_CXHW01000001.1 Shigella sonnei genome assembly 8289_7#51, scaffold ERS127075SCcontig000001, whole genome shotgun sequence",GCF_001251875.1_8289_7_51_genomic.fna.gz.sig
+0.6819999814033508,0.6819999814033508,"NZ_CYAK01000001.1 Escherichia coli genome assembly 7748_7#31, scaffold ERS085364SCcontig000001, whole genome shotgun sequence",GCF_001283925.1_7748_7_31_genomic.fna.gz.sig
+0.6800000071525574,0.6800000071525574,"NZ_JH378079.1 Escherichia coli O104:H4 str. C236-11 genomic scaffold supercont1.1, whole genome shotgun sequence",GCF_000235265.1_Esch_coli_C236-11_V2_genomic.fna.gz.sig
+0.6800000071525574,0.6800000071525574,"NZ_APYP01000001.1 Escherichia coli P0299917.6 gecP02999176.contig.0, whole genome shotgun sequence",GCF_000357345.2_ASM35734v2_genomic.fna.gz.sig
+0.6800000071525574,0.6800000071525574,"NZ_CXMB01000001.1 Shigella sonnei genome assembly 8489_2#85, scaffold ERS153597SCcontig000001, whole genome shotgun sequence",GCF_001249155.1_8489_2_85_genomic.fna.gz.sig
+0.6800000071525574,0.6800000071525574,"NZ_CXKO01000001.1 Shigella sonnei genome assembly 8290_4#45, scaffold ERS127165SCcontig000001, whole genome shotgun sequence",GCF_001260555.1_8290_4_45_genomic.fna.gz.sig
+0.6800000071525574,0.6800000071525574,"NZ_CYFW01000001.1 Escherichia coli genome assembly 8205_8#73, scaffold ERS150903SCcontig000001, whole genome shotgun sequence",GCF_001283465.1_8205_8_73_genomic.fna.gz.sig
+0.6800000071525574,0.6800000071525574,"NZ_CYCZ01000001.1 Escherichia coli genome assembly 7790_1#80, scaffold ERS085413SCcontig000001, whole genome shotgun sequence",GCF_001283765.1_7790_1_80_genomic.fna.gz.sig
+0.6779999732971191,0.6779999732971191,"NZ_AQBB01000001.1 Escherichia coli P0304816.4 gecP03048164.contig.0, whole genome shotgun sequence",GCF_000359035.2_ASM35903v2_genomic.fna.gz.sig
+0.6779999732971191,0.6779999732971191,"NZ_LK985398.1 Escherichia coli genome assembly FHI100, scaffold scaffold-1",GCF_000951955.1_FHI100_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NC_018658.1 Escherichia coli O104:H4 str. 2011C-3493 chromosome, complete genome",GCF_000299455.1_ASM29945v1_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NZ_JHOA01000001.1 Escherichia coli O45:H2 str. 01-3147 contig1, whole genome shotgun sequence",GCF_000617125.2_Ec01-3147_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NZ_JHJJ01000001.1 Escherichia coli O169:H41 str. F9792 contig1, whole genome shotgun sequence",GCF_000618205.2_EcF9792_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NZ_AMKB01000009.1 Shigella boydii 08-2671 SB_08_2671_10, whole genome shotgun sequence",GCF_000815725.1_ASM81572v1_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,NZ_HF572917.1 Escherichia coli HUSEC2011 complete genome,GCF_000967155.2_HUSEC2011CHR1_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NZ_LDXI01000001.1 Escherichia coli strain 36084 36084_contig000001, whole genome shotgun sequence",GCF_001039075.1_ASM103907v1_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NZ_CXCG01000001.1 Shigella sonnei genome assembly 5236_2#1, scaffold ERS009806SCcontig000001, whole genome shotgun sequence",GCF_001256375.1_5236_2_1_genomic.fna.gz.sig
+0.6759999990463257,0.6759999990463257,"NZ_CXZO01000001.1 Escherichia coli genome assembly 7748_7#34, scaffold ERS085367SCcontig000001, whole genome shotgun sequence",GCF_001284665.1_7748_7_34_genomic.fna.gz.sig
+0.6740000247955322,0.6740000247955322,"NZ_JHGZ01000001.1 Escherichia coli O26:H11 str. 2009C-3612 contig1, whole genome shotgun sequence",GCF_000622875.2_Ec2009C-3612_genomic.fna.gz.sig
+0.6740000247955322,0.6740000247955322,"NZ_LDDB01000001.1 Escherichia coli strain CFSAN026828 CFSAN026828_contig0000, whole genome shotgun sequence",GCF_001012435.1_CFSAN026828_01.0_genomic.fna.gz.sig
+0.6740000247955322,0.6740000247955322,"NZ_CXAG01000001.1 Shigella sonnei genome assembly 12971_8#76, scaffold ERS432308SCcontig000001, whole genome shotgun sequence",GCF_001254935.1_12971_8_76_genomic.fna.gz.sig
+0.671999990940094,0.671999990940094,"NZ_AKBB01000001.1 Escherichia coli O26:H11 str. CVM10224 ECO10224_1, whole genome shotgun sequence",GCF_000276785.1_EC_O26_H11_CVM10224_1.0_genomic.fna.gz.sig
+0.671999990940094,0.671999990940094,"NZ_CCRE01000001.1 Escherichia coli genome assembly FHI96, contig scaffold-1_contig-2.0_1_2037_[organism:Escherichia, whole genome shotgun sequence",GCF_000752695.1_FHI96_genomic.fna.gz.sig
+0.671999990940094,0.671999990940094,"NZ_CWUQ01000001.1 Shigella sonnei genome assembly H14152025501, scaffold SCcontig000001, whole genome shotgun sequence",GCF_001258355.1_H14152025501_genomic.fna.gz.sig
+0.6700000166893005,0.6700000166893005,"NZ_JHFX01000001.1 Escherichia coli O26:H11 str. 2010C-3472 contig1, whole genome shotgun sequence",GCF_000622695.2_Ec2010C-3472_genomic.fna.gz.sig
+0.6679999828338623,0.6679999828338623,"NZ_CWZW01000001.1 Shigella sonnei genome assembly 12971_8#67, scaffold ERS432298SCcontig000001, whole genome shotgun sequence",GCF_001257155.1_12971_8_67_genomic.fna.gz.sig
+0.6660000085830688,0.6660000085830688,"NZ_JHGP01000001.1 Escherichia coli O118:H16 str. 2009C-4446 contig1, whole genome shotgun sequence",GCF_000619025.1_Ec2009C-4446_genomic.fna.gz.sig
+0.6660000085830688,0.6660000085830688,"NZ_JHHP01000001.1 Escherichia coli O111:NM str. K6897 contig1, whole genome shotgun sequence",GCF_000619565.2_EcK6897_genomic.fna.gz.sig
+0.6660000085830688,0.6660000085830688,"NZ_CCRB01000001.1 Escherichia coli genome assembly FHI60, contig scaffold-1_contig-6.0_1_14873_[organism:Escherichia, whole genome shotgun sequence",GCF_000752255.1_FHI60_genomic.fna.gz.sig
+0.6660000085830688,0.6660000085830688,"NZ_CDRT01000001.1 Escherichia coli genome assembly 207A_L2_assembly, contig HI.207A_L2_c1, whole genome shotgun sequence",GCF_001373215.1_207A_L2_assembly_genomic.fna.gz.sig
+0.6639999747276306,0.6639999747276306,"NZ_AWFJ01000109.1 Escherichia coli 95JB1 map unlocalized plasmid pO111_2 contig36000000, whole genome shotgun sequence",GCF_000478705.1_95JB1_genomic.fna.gz.sig
+0.6620000004768372,0.6620000004768372,"NZ_AJVQ01000001.1 Escherichia coli O103:H25 str. CVM9340 ECO9340_1, whole genome shotgun sequence",GCF_000263895.1_ASM26389v1_genomic.fna.gz.sig
+0.6620000004768372,0.6620000004768372,"NZ_CXAI01000001.1 Shigella sonnei genome assembly 12971_8#69, scaffold ERS432300SCcontig000001, whole genome shotgun sequence",GCF_001249355.1_12971_8_69_genomic.fna.gz.sig
+0.6620000004768372,0.6620000004768372,"NZ_CXMD01000001.1 Shigella sonnei genome assembly 8489_2#84, scaffold ERS153596SCcontig000001, whole genome shotgun sequence",GCF_001251055.1_8489_2_84_genomic.fna.gz.sig
+0.6620000004768372,0.6620000004768372,"NZ_CWXI01000001.1 Shigella sonnei genome assembly 12844_1#56, scaffold ERS428560SCcontig000001, whole genome shotgun sequence",GCF_001256495.1_12844_1_56_genomic.fna.gz.sig
+0.6600000262260437,0.6600000262260437,"NZ_AJVS01000001.1 Escherichia coli O111:H11 str. CVM9534 ECO9534_1, whole genome shotgun sequence",GCF_000263935.1_ASM26393v1_genomic.fna.gz.sig
+0.6600000262260437,0.6600000262260437,"NZ_AQER01000001.1 Escherichia coli P0299917.1 gecP02999171.contig.0, whole genome shotgun sequence",GCF_000356665.2_ASM35666v2_genomic.fna.gz.sig
+0.6600000262260437,0.6600000262260437,"NZ_JHFB01000001.1 Escherichia coli O26:NM str. 2010C-4347 contig1, whole genome shotgun sequence",GCF_000614845.2_Ec2010C-4347_genomic.fna.gz.sig
+0.6600000262260437,0.6600000262260437,"NZ_AMJU01000009.1 Shigella boydii S6614 S6614_10, whole genome shotgun sequence",GCF_000815585.1_ASM81558v1_genomic.fna.gz.sig
+0.6600000262260437,0.6600000262260437,"NZ_CXAA01000001.1 Shigella sonnei genome assembly 12971_8#66, scaffold ERS432297SCcontig000001, whole genome shotgun sequence",GCF_001253595.1_12971_8_66_genomic.fna.gz.sig
+0.6600000262260437,0.6600000262260437,"NZ_CXBP01000001.1 Shigella sonnei genome assembly 5236_1#3, scaffold ERS009796SCcontig000001, whole genome shotgun sequence",GCF_001255875.1_5236_1_3_genomic.fna.gz.sig
+0.6579999923706055,0.6579999923706055,"NZ_JNPZ01000001.1 Escherichia coli 2-177-06_S4_C3 e217706S4C3.contig.0_1, whole genome shotgun sequence",GCF_000703565.1_ASM70356v1_genomic.fna.gz.sig
+0.6579999923706055,0.6579999923706055,"NZ_CCPT01000001.1 Escherichia coli genome assembly FHI3, contig scaffold-1_contig-1.0_1_1279_[organism:Escherichia, whole genome shotgun sequence",GCF_000752195.1_FHI3_genomic.fna.gz.sig
+0.656000018119812,0.656000018119812,"NZ_JHFJ01000001.1 Escherichia coli O26:H11 str. 2010C-3871 contig1, whole genome shotgun sequence",GCF_000622715.2_Ec2010C-3871_genomic.fna.gz.sig
+0.656000018119812,0.656000018119812,"NZ_LK999921.1 Escherichia coli genome assembly FHI42, scaffold scaffold-1",GCF_000943355.1_FHI42_genomic.fna.gz.sig
+0.6539999842643738,0.6539999842643738,"NZ_JSOH01000001.1 Escherichia coli strain upec-119 upec-119_ctg_1346, whole genome shotgun sequence",GCF_000781145.1_ASM78114v1_genomic.fna.gz.sig
+0.6520000100135803,0.6520000100135803,"NZ_JHGV01000001.1 Escherichia coli O26:H11 str. 2009C-3996 contig1, whole genome shotgun sequence",GCF_000622595.2_Ec2009C-3996_genomic.fna.gz.sig
+0.6499999761581421,0.6499999761581421,"NZ_CP014092.1 Escherichia coli strain 268-78-1, complete genome",GCF_001563715.1_ASM156371v1_genomic.fna.gz.sig
+0.6480000019073486,0.6480000019073486,"NZ_CCPQ01000001.1 Escherichia coli genome assembly FHI13, contig scaffold-1_contig-1.0_1_34294_[organism:Escherichia, whole genome shotgun sequence",GCF_000753515.1_FHI13_genomic.fna.gz.sig
+0.6480000019073486,0.6480000019073486,"NZ_AMKC01000009.1 Shigella boydii 08-2675 SB_08_2675_10, whole genome shotgun sequence",GCF_000815735.1_ASM81573v1_genomic.fna.gz.sig
+0.6480000019073486,0.6480000019073486,"NZ_JXVR01000001.1 Escherichia coli strain OLC-464 Cont0001, whole genome shotgun sequence",GCF_000948745.1_ASM94874v1_genomic.fna.gz.sig
+0.6439999938011169,0.6439999938011169,"NZ_AZOI01000001.1 Shigella flexneri Shi06AH116 Shi06AH116_0001, whole genome shotgun sequence",GCF_000565545.1_ASM56554v1_genomic.fna.gz.sig
+0.6439999938011169,0.6439999938011169,"NZ_AZOK01000001.1 Shigella flexneri Shi06GS48 Shi06GS48_0001, whole genome shotgun sequence",GCF_000565585.1_ASM56558v1_genomic.fna.gz.sig
+0.6439999938011169,0.6439999938011169,"NZ_AZOL01000001.1 Shigella flexneri Shi06HN118 Shi06HN118_0001, whole genome shotgun sequence",GCF_000565605.1_ASM56560v1_genomic.fna.gz.sig
+0.6420000195503235,0.6420000195503235,"NZ_AZPK01000001.1 Shigella flexneri 2001004 2001004_0001, whole genome shotgun sequence",GCF_000566105.1_ASM56610v1_genomic.fna.gz.sig
+0.6420000195503235,0.6420000195503235,"NZ_AMJT01000009.1 Shigella flexneri S6585 S6585_10, whole genome shotgun sequence",GCF_000815565.1_ASM81556v1_genomic.fna.gz.sig
+0.6399999856948853,0.6399999856948853,"NZ_LM997175.1 Escherichia coli genome assembly FHI97, scaffold scaffold-1_contig-45.0_1_1337_[organism:Escherichia",GCF_000946275.1_FHI97_genomic.fna.gz.sig
+0.6380000114440918,0.6380000114440918,"NZ_AVRU01000002.1 Escherichia coli B105 gecB105.contig.1, whole genome shotgun sequence",GCF_000462525.2_ASM46252v2_genomic.fna.gz.sig
+0.6359999775886536,0.6359999775886536,"NZ_AVSH01000001.1 Escherichia coli B83 gecB83.contig.0, whole genome shotgun sequence",GCF_000462765.2_ASM46276v2_genomic.fna.gz.sig
+0.6359999775886536,0.6359999775886536,"NZ_AZOJ01000001.1 Shigella flexneri Shi06GS07 Shi06GS07_0001, whole genome shotgun sequence",GCF_000565565.1_ASM56556v1_genomic.fna.gz.sig
+0.6359999775886536,0.6359999775886536,"NZ_AZPG01000001.1 Shigella flexneri 51581 51581_0001, whole genome shotgun sequence",GCF_000566025.1_ASM56602v1_genomic.fna.gz.sig
+0.6359999775886536,0.6359999775886536,"NZ_AZPW01000001.1 Shigella flexneri 2005025 2005025_0001, whole genome shotgun sequence",GCF_000566345.1_ASM56634v1_genomic.fna.gz.sig
+0.6359999775886536,0.6359999775886536,"NZ_LAHY01000001.1 Shigella flexneri 2a strain BS1024 BS1024_c1, whole genome shotgun sequence",GCF_001017305.1_ASM101730v1_genomic.fna.gz.sig
+0.6340000033378601,0.6340000033378601,"NZ_AOEQ01000001.1 Escherichia coli 99.1781 gec991781.contig.0_1, whole genome shotgun sequence",GCF_000335135.1_ASM33513v1_genomic.fna.gz.sig
+0.6340000033378601,0.6340000033378601,"NZ_LDXF01000001.1 Escherichia coli strain 34827 34827_contig_1, whole genome shotgun sequence",GCF_001039155.1_ASM103915v1_genomic.fna.gz.sig
+0.6320000290870667,0.6320000290870667,"NZ_JHIH01000001.1 Escherichia coli O157:H7 str. K5448 contig1, whole genome shotgun sequence",GCF_000618765.1_EcK5448_genomic.fna.gz.sig
+0.6320000290870667,0.6320000290870667,"NZ_JHIF01000001.1 Escherichia coli O157:H7 str. K5453 contig1, whole genome shotgun sequence",GCF_000618805.1_EcK5453_genomic.fna.gz.sig
+0.6320000290870667,0.6320000290870667,"NZ_LKAK01000100.1 Escherichia coli O157:H7 strain WS4435 100_15403_2.43716, whole genome shotgun sequence",GCF_001432175.1_ASM143217v1_genomic.fna.gz.sig
+0.6299999952316284,0.6299999952316284,"NZ_JH957201.1 Escherichia coli TT12B genomic scaffold TT12B.contig.1, whole genome shotgun sequence",GCF_000303955.2_ASM30395v2_genomic.fna.gz.sig
+0.6299999952316284,0.6299999952316284,"NZ_KB006840.1 Escherichia coli 89.0511 genomic scaffold gec890511.contig.0, whole genome shotgun sequence",GCF_000316365.2_ASM31636v2_genomic.fna.gz.sig
+0.6299999952316284,0.6299999952316284,"NZ_LAIF01000001.1 Shigella flexneri 2a strain BS1046 BS1046_c1, whole genome shotgun sequence",GCF_001017405.1_ASM101740v1_genomic.fna.gz.sig
+0.628000020980835,0.628000020980835,"NZ_JH706539.1 Escherichia coli PA31 genomic scaffold PA31.contig.0, whole genome shotgun sequence",GCF_000267745.2_ASM26774v2_genomic.fna.gz.sig
+0.628000020980835,0.628000020980835,"NZ_KB003780.1 Escherichia coli 93.0055 genomic scaffold gec930055.contig.0, whole genome shotgun sequence",GCF_000316445.2_ASM31644v2_genomic.fna.gz.sig
+0.628000020980835,0.628000020980835,"NZ_JHJA01000001.1 Escherichia coli O157:H7 str. K1796 contig1, whole genome shotgun sequence",GCF_000618325.1_EcK1796_genomic.fna.gz.sig
+0.628000020980835,0.628000020980835,"NZ_CCPV01000001.1 Escherichia coli genome assembly FHI36, contig scaffold-1_contig-1.0_1_48312_[organism:Escherichia, whole genome shotgun sequence",GCF_000753215.1_FHI36_genomic.fna.gz.sig
+0.628000020980835,0.628000020980835,"NZ_JZEA01000111.1 Escherichia coli strain St. Olav174 NODE_1, whole genome shotgun sequence",GCF_000965665.1_ASM96566v1_genomic.fna.gz.sig
+0.6259999871253967,0.6259999871253967,"NZ_AFHC01000063.1 Shigella flexneri 4343-70 gss434370.contig.64, whole genome shotgun sequence",GCF_000213475.1_ASM21347v2_genomic.fna.gz.sig
+0.6259999871253967,0.6259999871253967,"NZ_ANME01000002.1 Escherichia coli 99.0678 990678_CA.contig.1, whole genome shotgun sequence",GCF_000316545.2_ASM31654v2_genomic.fna.gz.sig
+0.6259999871253967,0.6259999871253967,"NZ_AODY01000001.1 Escherichia coli 99.0814 gec990814.contig.0_1, whole genome shotgun sequence",GCF_000335235.2_ASM33523v2_genomic.fna.gz.sig
+0.6259999871253967,0.6259999871253967,"NZ_JHIR01000001.1 Escherichia coli O157:H7 str. K2622 contig1, whole genome shotgun sequence",GCF_000618545.1_EcK2622_genomic.fna.gz.sig
+0.6259999871253967,0.6259999871253967,"NZ_JHIO01000001.1 Escherichia coli O157:H7 str. K4396 contig1, whole genome shotgun sequence",GCF_000618605.1_EcK4396_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_ADMX01000277.1 Escherichia coli O157:H7 str. EC4009 EC400900845, whole genome shotgun sequence",GCF_000178315.1_ASM17831v1_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_AIFN01000080.1 Escherichia coli DEC4D gecDEC4D.contig.79_1, whole genome shotgun sequence",GCF_000249435.1_ASM24943v2_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_AOEM01000001.1 Escherichia coli PA47 gecPA47.contig.0_1, whole genome shotgun sequence",GCF_000335075.2_ASM33507v2_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_AOES01000001.1 Escherichia coli PA35 pa35.contig.0_1, whole genome shotgun sequence",GCF_000335175.2_ASM33517v2_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_AVQV01000001.1 Escherichia coli B26-2 gecB262.contig.0, whole genome shotgun sequence",GCF_000461915.2_ASM46191v2_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_AVRQ01000001.1 Escherichia coli 14A gec14A.contig.0, whole genome shotgun sequence",GCF_000462225.2_ASM46222v2_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_AWQE01000001.1 Escherichia coli M19 E_coliM19-1.0-0.1, whole genome shotgun sequence",GCF_000471405.1_E_coliM19-1.0_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_JHKQ01000001.1 Escherichia coli O157:H7 str. 2011EL-2104 contig1, whole genome shotgun sequence",GCF_000615785.2_Ec2011EL-2104_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_LGBB01000001.1 Escherichia coli strain STEC 994 contig_1, whole genome shotgun sequence",GCF_001281795.1_ASM128179v1_genomic.fna.gz.sig
+0.6240000128746033,0.6240000128746033,"NZ_LGBN01000001.1 Escherichia coli strain EPEC 1572 contig_1, whole genome shotgun sequence",GCF_001282025.1_ASM128202v1_genomic.fna.gz.sig
+0.621999979019165,0.621999979019165,"NZ_JH956326.1 Escherichia coli CB7326 genomic scaffold CB7326.contig.0, whole genome shotgun sequence",GCF_000304015.2_ASM30401v2_genomic.fna.gz.sig
+0.621999979019165,0.621999979019165,"NZ_JHJO01000001.1 Escherichia coli O157:H7 str. F6751 contig1, whole genome shotgun sequence",GCF_000618265.2_EcF6751_genomic.fna.gz.sig
+0.621999979019165,0.621999979019165,"NZ_LFUB01000001.1 Escherichia coli strain STEC 623 STEC-623_contig_1, whole genome shotgun sequence",GCF_001297985.1_ASM129798v1_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_JH702824.1 Escherichia coli PA42 genomic scaffold PA42.contig.2, whole genome shotgun sequence",GCF_000267645.2_ASM26764v2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_JH952495.1 Escherichia coli EC1856 genomic scaffold EC1856.contig.0, whole genome shotgun sequence",GCF_000303455.2_ASM30345v2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_JH959581.1 Escherichia coli PA23 genomic scaffold PA23.contig.0, whole genome shotgun sequence",GCF_000303895.2_ASM30389v2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_AOEK01000001.1 Escherichia coli PA13 gecPA13.contig.0_1, whole genome shotgun sequence",GCF_000335435.2_ASM33543v2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_AIAW01000001.1 Escherichia coli C354_03B C354_03B_2, whole genome shotgun sequence",GCF_000446485.2_ASM44648v2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_AVRE01000001.1 Escherichia coli B93 gecB93.contig.0, whole genome shotgun sequence",GCF_000462425.2_ASM46242v2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_CXNS01000001.1 Shigella sonnei genome assembly 9870_7#2, scaffold ERS222032SCcontig000001, whole genome shotgun sequence",GCF_001257335.1_9870_7_2_genomic.fna.gz.sig
+0.6200000047683716,0.6200000047683716,"NZ_LGBK01000001.1 Escherichia coli strain E09/10 contig_1, whole genome shotgun sequence",GCF_001281965.1_ASM128196v1_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_JH696614.1 Escherichia coli EC4439 genomic scaffold EC4439.contig.0, whole genome shotgun sequence",GCF_000267305.2_ASM26730v2_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_JH969625.1 Escherichia coli 8.0586 genomic scaffold gec80586.contig.0, whole genome shotgun sequence",GCF_000305375.2_ASM30537v2_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_JH969093.1 Escherichia coli 10.0833 genomic scaffold gec100833.contig.0, whole genome shotgun sequence",GCF_000305415.2_ASM30541v2_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_KB004497.1 Escherichia coli 99.0672 genomic scaffold gec990672.contig.3, whole genome shotgun sequence",GCF_000316705.2_ASM31670v2_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_AVSL01000001.1 Escherichia coli B89 gecB89.contig.0, whole genome shotgun sequence",GCF_000462845.2_ASM46284v2_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_JHKT01000001.1 Escherichia coli O157:H7 str. 2011EL-2099 contig1, whole genome shotgun sequence",GCF_000616705.2_Ec2011EL-2099_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_JHNI01000001.1 Escherichia coli O157:H7 str. 06-3745 contig1, whole genome shotgun sequence",GCF_000617445.2_Ec06-3745_genomic.fna.gz.sig
+0.6179999709129333,0.6179999709129333,"NZ_LFUA01000001.1 Escherichia coli strain STEC 605 STEC-605_contig_1, whole genome shotgun sequence",GCF_001297995.1_ASM129799v1_genomic.fna.gz.sig
+0.6159999966621399,0.6159999966621399,"NZ_AKLY01000001.1 Escherichia coli TW09109 TW09109.contig.0, whole genome shotgun sequence",GCF_000267065.1_ASM26706v1_genomic.fna.gz.sig
+0.6159999966621399,0.6159999966621399,"NZ_KB007268.1 Escherichia coli 90.0091 genomic scaffold gec900091.contig.0, whole genome shotgun sequence",GCF_000316385.2_ASM31638v2_genomic.fna.gz.sig
+0.6140000224113464,0.6140000224113464,"NZ_JH943937.1 Escherichia coli EC1866 genomic scaffold EC1866.contig.0, whole genome shotgun sequence",GCF_000303375.2_ASM30337v2_genomic.fna.gz.sig
+0.6140000224113464,0.6140000224113464,"NZ_LAZD01000130.1 Escherichia coli O157:H7 strain 7.1_Anguil scaffold_1, whole genome shotgun sequence",GCF_000978815.1_ASM97881v1_genomic.fna.gz.sig
+0.6140000224113464,0.6140000224113464,"NZ_LEAE01000083.1 Escherichia coli strain CO6CE900, whole genome shotgun sequence",GCF_001309885.1_ASM130988v1_genomic.fna.gz.sig
+0.6119999885559082,0.6119999885559082,"NZ_AKMA01000001.1 Escherichia coli TW10119 TW10119.contig.0, whole genome shotgun sequence",GCF_000267185.1_ASM26718v1_genomic.fna.gz.sig
+0.6100000143051147,0.6100000143051147,"NZ_JH708603.1 Escherichia coli PA10 genomic scaffold PA10.contig.0, whole genome shotgun sequence",GCF_000267865.2_ASM26786v2_genomic.fna.gz.sig
+0.6100000143051147,0.6100000143051147,"NZ_JSHS01000003.1 Escherichia coli strain upec-41 upec-41_ctg_2282, whole genome shotgun sequence",GCF_000777095.1_ASM77709v1_genomic.fna.gz.sig
+0.6060000061988831,0.6060000061988831,"NZ_KE699029.1 Escherichia coli HVH 22 (4-2258986) genomic scaffold acXtX-supercont1.1, whole genome shotgun sequence",GCF_000456325.1_Esch_coli_HVH_22_4-2258986_V1_genomic.fna.gz.sig
+0.6060000061988831,0.6060000061988831,"NZ_CP006027.1 Escherichia coli O145:H28 str. RM13514, complete genome",GCF_000520035.1_ASM52003v1_genomic.fna.gz.sig
+0.6060000061988831,0.6060000061988831,"NZ_JHSQ01000001.1 Escherichia coli strain 100100 100100_1, whole genome shotgun sequence",GCF_001266015.1_100100_genomic.fna.gz.sig
+0.6019999980926514,0.6019999980926514,"NZ_KB733039.1 Escherichia coli KTE54 genomic scaffold acASs-supercont1.1, whole genome shotgun sequence",GCF_000352345.1_Esch_coli_KTE54_V1_genomic.fna.gz.sig
+0.6019999980926514,0.6019999980926514,"NZ_JSMH01000004.1 Escherichia coli strain upec-175 upec-175_ctg_1081, whole genome shotgun sequence",GCF_000779915.1_ASM77991v1_genomic.fna.gz.sig
+0.6000000238418579,0.6000000238418579,"NZ_JHKV01000001.1 Escherichia coli O145:NM str. 08-4270 contig1, whole genome shotgun sequence",GCF_000616665.2_Ec08-4270_genomic.fna.gz.sig
+0.6000000238418579,0.6000000238418579,"NZ_JNQS01000001.1 Escherichia coli 2-316-03_S4_C1 e231603S4C1.contig.0_1, whole genome shotgun sequence",GCF_000704305.1_ASM70430v1_genomic.fna.gz.sig
+0.5899999737739563,0.5899999737739563,"NZ_ANXM01000001.1 Escherichia coli KTE105 acwoU-supercont1.1, whole genome shotgun sequence",GCF_000326145.1_Esch_coli_KTE105_V1_genomic.fna.gz.sig
+0.5820000171661377,0.5820000171661377,"NZ_JULB01000266.1 Escherichia coli strain 982_ECOL 1000_4492_72285, whole genome shotgun sequence",GCF_001059715.1_ASM105971v1_genomic.fna.gz.sig
+0.5799999833106995,0.5799999833106995,"NZ_KE698844.1 Escherichia coli HVH 6 (3-8296502) genomic scaffold acXvb-supercont1.1, whole genome shotgun sequence",GCF_000456105.1_Esch_coli_HVH_6_3-8296502_V1_genomic.fna.gz.sig
+0.5799999833106995,0.5799999833106995,"NZ_LQSN01000001.1 Escherichia coli strain GN02215 GCID_ECOLID_00024_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001519515.1_ASM151951v1_genomic.fna.gz.sig
+0.578000009059906,0.578000009059906,"NZ_KE136941.1 Escherichia coli KTE200 genomic scaffold acHbd-supercont1.1, whole genome shotgun sequence",GCF_000408185.1_Esch_coli_KTE200_V1_genomic.fna.gz.sig
+0.5759999752044678,0.5759999752044678,"NZ_KE700715.1 Escherichia coli HVH 187 (4-4471660) genomic scaffold acYzF-supercont1.1, whole genome shotgun sequence",GCF_000458805.1_Esch_coli_HVH_187_4-4471660_V1_genomic.fna.gz.sig
+0.5740000009536743,0.5740000009536743,"NZ_KB732461.1 Escherichia coli KTE204 genomic scaffold acEvh-supercont1.1, whole genome shotgun sequence",GCF_000351065.1_Esch_coli_KTE204_V1_genomic.fna.gz.sig
+0.5680000185966492,0.5680000185966492,"NZ_JSQY01000002.1 Escherichia coli strain blood-09-1305rep1 blood-09-1305rep1_ctg_3452, whole genome shotgun sequence",GCF_000781875.1_ASM78187v1_genomic.fna.gz.sig
+0.5659999847412109,0.5659999847412109,"NZ_LQVZ01000001.1 Escherichia coli strain GN03578 GCID_ECOLID_00147_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001520255.1_ASM152025v1_genomic.fna.gz.sig
+0.5619999766349792,0.5619999766349792,"NZ_KB732501.1 Escherichia coli KTE208 genomic scaffold acEnn-supercont1.1, whole genome shotgun sequence",GCF_000351125.1_Esch_coli_KTE208_V1_genomic.fna.gz.sig
+0.5619999766349792,0.5619999766349792,"NZ_CP008697.1 Escherichia coli strain ST648, complete genome",GCF_001485455.1_ASM148545v1_genomic.fna.gz.sig
+0.5600000023841858,0.5600000023841858,"NZ_KI929742.1 Escherichia coli BIDMC 9 genomic scaffold adjGr-supercont2.1, whole genome shotgun sequence",GCF_000522265.1_Esch_coli_BIDMC_9_V2_genomic.fna.gz.sig
+0.5559999942779541,0.5559999942779541,"NZ_CBWA010000001.1 Escherichia coli IS1 WGS project CBWA000000000 data, contig c186, whole genome shotgun sequence",GCF_000513455.1_IS1v1_genomic.fna.gz.sig
+0.5559999942779541,0.5559999942779541,"NZ_KI929689.1 Escherichia coli BIDMC 19B genomic scaffold adjGB-supercont2.1, whole genome shotgun sequence",GCF_000522165.1_Esch_coli_BIDMC_19B_V2_genomic.fna.gz.sig
+0.5540000200271606,0.5540000200271606,"NZ_AIBZ01000001.1 Escherichia coli C844_97 C844_97_2, whole genome shotgun sequence",GCF_000410675.2_ASM41067v2_genomic.fna.gz.sig
+0.5540000200271606,0.5540000200271606,"NZ_KE699366.1 Escherichia coli HVH 63 (4-2542528) genomic scaffold acXuC-supercont1.1, whole genome shotgun sequence",GCF_000456925.1_Esch_coli_HVH_63_4-2542528_V1_genomic.fna.gz.sig
+0.5540000200271606,0.5540000200271606,"NZ_KI533909.1 Escherichia coli 908616 genomic scaffold Scaffold0, whole genome shotgun sequence",GCF_000488675.1_ASM48867v1_genomic.fna.gz.sig
+0.550000011920929,0.550000011920929,"NZ_JNPU01000001.1 Escherichia coli 1-392-07_S1_C2 e139207S1C2.contig.0_1, whole genome shotgun sequence",GCF_000703885.1_ASM70388v1_genomic.fna.gz.sig
+0.5479999780654907,0.5479999780654907,"NZ_AIAP01000001.1 Escherichia coli C262_10 C262_10_2, whole genome shotgun sequence",GCF_000446345.2_ASM44634v2_genomic.fna.gz.sig
+0.5460000038146973,0.5460000038146973,"NZ_KE137217.1 Escherichia coli KTE121 genomic scaffold acHaE-supercont1.1, whole genome shotgun sequence",GCF_000408665.1_Esch_coli_KTE121_V1_genomic.fna.gz.sig
+0.5419999957084656,0.5419999957084656,"NZ_CYGH01000001.1 Escherichia coli genome assembly 7748_7#3, scaffold ERS085336SCcontig000001, whole genome shotgun sequence",GCF_001286465.1_7748_7_3_genomic.fna.gz.sig
+0.5400000214576721,0.5400000214576721,"NZ_AIBP01000001.1 Escherichia coli C78_09C C78_09C_2, whole genome shotgun sequence",GCF_000446845.2_ASM44684v2_genomic.fna.gz.sig
+0.5400000214576721,0.5400000214576721,"NZ_KQ088929.1 Escherichia coli strain CHS199 genomic scaffold aeviY-supercont1.1, whole genome shotgun sequence",GCF_001032735.1_Esch_coli_CHS199_V1_genomic.fna.gz.sig
+0.5339999794960022,0.5339999794960022,"NZ_KB733205.1 Escherichia coli KTE215 genomic scaffold acASL-supercont1.1, whole genome shotgun sequence",GCF_000353065.1_Esch_coli_KTE215_V1_genomic.fna.gz.sig
+0.5299999713897705,0.5299999713897705,"NZ_JTDU01000001.1 Escherichia coli strain GSK252FU contig001, whole genome shotgun sequence",GCF_000807655.1_ASM80765v1_genomic.fna.gz.sig
+0.5299999713897705,0.5299999713897705,"NZ_LQUH01000001.1 Escherichia coli strain GN02531 GCID_ECOLID_00078_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001521275.1_ASM152127v1_genomic.fna.gz.sig
+0.527999997138977,0.527999997138977,"NZ_AICD01000001.1 Escherichia coli C93_11 C93_11_2, whole genome shotgun sequence",GCF_000447105.2_ASM44710v2_genomic.fna.gz.sig
+0.527999997138977,0.527999997138977,"NZ_JMJA01000001.1 Escherichia coli strain UCD_JA17_pb contig_1, whole genome shotgun sequence",GCF_000714915.1_UCD_JA17_pb_genomic.fna.gz.sig
+0.527999997138977,0.527999997138977,"NZ_JSYR01000001.1 Escherichia coli strain GSK25213 contig001, whole genome shotgun sequence",GCF_000807565.1_ASM80756v1_genomic.fna.gz.sig
+0.527999997138977,0.527999997138977,"NZ_CDQY01000001.1 Escherichia coli genome assembly 2d8A_assembly, contig CC.2d8_A_subsample_c1, whole genome shotgun sequence",GCF_000941535.1_2d8A_assembly_genomic.fna.gz.sig
+0.5260000228881836,0.5260000228881836,"NZ_AEZY02000025.1 Escherichia coli 9.1649 Contig1340754252, whole genome shotgun sequence",GCF_000194475.2_ASM19447v2_genomic.fna.gz.sig
+0.5260000228881836,0.5260000228881836,"NZ_KE699192.1 Escherichia coli HVH 39 (4-2679949) genomic scaffold acXup-supercont1.1, whole genome shotgun sequence",GCF_000456605.1_Esch_coli_HVH_39_4-2679949_V1_genomic.fna.gz.sig
+0.5260000228881836,0.5260000228881836,"NZ_KE701435.1 Escherichia coli UMEA 3022-1 genomic scaffold acYzv-supercont1.1, whole genome shotgun sequence",GCF_000459975.1_Esch_coli_UMEA_3022-1_V1_genomic.fna.gz.sig
+0.5260000228881836,0.5260000228881836,"NZ_KE702079.1 Escherichia coli UMEA 3216-1 genomic scaffold acYxU-supercont1.1, whole genome shotgun sequence",GCF_000460875.1_Esch_coli_UMEA_3216-1_V1_genomic.fna.gz.sig
+0.5239999890327454,0.5239999890327454,"NZ_KB732770.1 Escherichia coli KTE67 genomic scaffold acEvz-supercont1.1, whole genome shotgun sequence",GCF_000351645.1_Esch_coli_KTE67_V1_genomic.fna.gz.sig
+0.5239999890327454,0.5239999890327454,"NZ_JSJX01000001.1 Escherichia coli strain upec-243 upec-243_ctg_114, whole genome shotgun sequence",GCF_000778235.1_ASM77823v1_genomic.fna.gz.sig
+0.5220000147819519,0.5220000147819519,"NZ_AIFC01000045.1 Escherichia coli DEC2D gecDEC2D.contig.44_1, whole genome shotgun sequence",GCF_000249215.1_ASM24921v2_genomic.fna.gz.sig
+0.5220000147819519,0.5220000147819519,"NZ_KE701144.1 Escherichia coli HVH 227 (4-2277670) genomic scaffold acYzu-supercont1.1, whole genome shotgun sequence",GCF_000459515.1_Esch_coli_HVH_227_4-2277670_V1_genomic.fna.gz.sig
+0.5220000147819519,0.5220000147819519,"NZ_JSHT01000002.1 Escherichia coli strain upec-40 upec-40_ctg_1135, whole genome shotgun sequence",GCF_000777135.1_ASM77713v1_genomic.fna.gz.sig
+0.5199999809265137,0.5199999809265137,"NZ_KE137054.1 Escherichia coli KTE69 genomic scaffold acHaK-supercont1.1, whole genome shotgun sequence",GCF_000408405.1_Esch_coli_KTE69_V1_genomic.fna.gz.sig
+0.5199999809265137,0.5199999809265137,"NZ_KE699132.1 Escherichia coli HVH 32 (4-3773988) genomic scaffold acXtQ-supercont1.1, whole genome shotgun sequence",GCF_000456505.1_Esch_coli_HVH_32_4-3773988_V1_genomic.fna.gz.sig
+0.5180000066757202,0.5180000066757202,"NZ_AIEX01000081.1 Escherichia coli DEC1C gecDEC1C.contig.80_1, whole genome shotgun sequence",GCF_000249095.1_ASM24909v2_genomic.fna.gz.sig
+0.5180000066757202,0.5180000066757202,"NZ_KB732999.1 Escherichia coli KTE17 genomic scaffold acATs-supercont1.1, whole genome shotgun sequence",GCF_000352125.1_Esch_coli_KTE17_V1_genomic.fna.gz.sig
+0.5180000066757202,0.5180000066757202,"NZ_KE699299.1 Escherichia coli HVH 51 (4-2172526) genomic scaffold acXvd-supercont1.1, whole genome shotgun sequence",GCF_000456785.1_Esch_coli_HVH_51_4-2172526_V1_genomic.fna.gz.sig
+0.5180000066757202,0.5180000066757202,"NZ_KE700829.1 Escherichia coli HVH 199 (4-5670322) genomic scaffold acYyk-supercont1.1, whole genome shotgun sequence",GCF_000459035.1_Esch_coli_HVH_199_4-5670322_V1_genomic.fna.gz.sig
+0.5180000066757202,0.5180000066757202,"NZ_CP012633.1 Escherichia coli strain SF-166, complete genome",GCF_001280385.1_ASM128038v1_genomic.fna.gz.sig
+0.5180000066757202,0.5180000066757202,"NZ_CYGJ01000001.1 Escherichia coli genome assembly 8205_3#1, scaffold ERS139198SCcontig000001, whole genome shotgun sequence",GCF_001286605.1_8205_3_1_genomic.fna.gz.sig
+0.515999972820282,0.515999972820282,"NZ_AOQE01000001.1 Escherichia coli TOP382-3, whole genome shotgun sequence",GCF_000397285.1_Ec13_E1F3_TOP382-3_120714_genomic.fna.gz.sig
+0.515999972820282,0.515999972820282,"NZ_KE701456.1 Escherichia coli UMEA 3041-1 genomic scaffold acYyc-supercont1.1, whole genome shotgun sequence",GCF_000460015.1_Esch_coli_UMEA_3041-1_V1_genomic.fna.gz.sig
+0.515999972820282,0.515999972820282,"NZ_KE701601.1 Escherichia coli UMEA 3122-1 genomic scaffold acYzc-supercont1.1, whole genome shotgun sequence",GCF_000460235.1_Esch_coli_UMEA_3122-1_V1_genomic.fna.gz.sig
+0.515999972820282,0.515999972820282,"NZ_KE747799.1 Escherichia coli HVH 190 (4-3255514) genomic scaffold acYyy-supercont1.1, whole genome shotgun sequence",GCF_000465135.1_Esch_coli_HVH_190_4-3255514_V1_genomic.fna.gz.sig
+0.515999972820282,0.515999972820282,"NZ_KK097719.1 Escherichia coli K02 genomic scaffold adHqK-supercont1.1, whole genome shotgun sequence",GCF_000607285.1_Esch_coli_K02_V1_genomic.fna.gz.sig
+0.515999972820282,0.515999972820282,"NZ_JVNS01000159.1 Escherichia coli strain 265_ECOL 1002_5338_45519, whole genome shotgun sequence",GCF_001056195.1_ASM105619v1_genomic.fna.gz.sig
+0.5139999985694885,0.5139999985694885,"NZ_AIEW01000089.1 Escherichia coli DEC1B gecDEC1B.contig.88_1, whole genome shotgun sequence",GCF_000249075.1_ASM24907v2_genomic.fna.gz.sig
+0.5139999985694885,0.5139999985694885,"NZ_KE699897.1 Escherichia coli HVH 117 (4-6857191) genomic scaffold acXuE-supercont1.1, whole genome shotgun sequence",GCF_000457695.1_Esch_coli_HVH_117_4-6857191_V1_genomic.fna.gz.sig
+0.5139999985694885,0.5139999985694885,"NZ_KE700936.1 Escherichia coli HVH 211 (4-3041891) genomic scaffold acYwu-supercont1.1, whole genome shotgun sequence",GCF_000459275.1_Esch_coli_HVH_211_4-3041891_V1_genomic.fna.gz.sig
+0.5139999985694885,0.5139999985694885,"NZ_KE701581.1 Escherichia coli UMEA 3117-1 genomic scaffold acYAj-supercont1.1, whole genome shotgun sequence",GCF_000460195.1_Esch_coli_UMEA_3117-1_V1_genomic.fna.gz.sig
+0.5139999985694885,0.5139999985694885,"NZ_KE702200.1 Escherichia coli UMEA 3257-1 genomic scaffold acYyt-supercont1.1, whole genome shotgun sequence",GCF_000461055.1_Esch_coli_UMEA_3257-1_V1_genomic.fna.gz.sig
+0.5139999985694885,0.5139999985694885,"NZ_JYEE01000001.1 Escherichia coli strain Chronic_salp contig_1, whole genome shotgun sequence",GCF_000951745.1_ASM95174v1_genomic.fna.gz.sig
+0.5120000243186951,0.5120000243186951,"NZ_KE699670.1 Escherichia coli HVH 95 (4-6074464) genomic scaffold acXtS-supercont1.1, whole genome shotgun sequence",GCF_000457345.1_Esch_coli_HVH_95_4-6074464_V1_genomic.fna.gz.sig
+0.5120000243186951,0.5120000243186951,"NZ_JSGB01000003.1 Escherichia coli strain upec-88 upec-88_ctg_1276, whole genome shotgun sequence",GCF_000776535.1_ASM77653v1_genomic.fna.gz.sig
+0.5120000243186951,0.5120000243186951,"NZ_JSGP01000005.1 Escherichia coli strain upec-75 upec-75_ctg_1115, whole genome shotgun sequence",GCF_000776655.1_ASM77665v1_genomic.fna.gz.sig
+0.5120000243186951,0.5120000243186951,"NZ_JSOA01000002.1 Escherichia coli strain upec-125 upec-125_ctg_1190, whole genome shotgun sequence",GCF_000781005.1_ASM78100v1_genomic.fna.gz.sig
+0.5120000243186951,0.5120000243186951,"NZ_JVOT01000078.1 Escherichia coli strain 241_ECOL 1001_7877_92532, whole genome shotgun sequence",GCF_001056015.1_ASM105601v1_genomic.fna.gz.sig
+0.5120000243186951,0.5120000243186951,"NZ_LQUM01000001.1 Escherichia coli strain GN02556 GCID_ECOLID_00083_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001521175.1_ASM152117v1_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_KE700208.1 Escherichia coli HVH 143 (4-5674999) genomic scaffold acXur-supercont1.1, whole genome shotgun sequence",GCF_000458115.1_Esch_coli_HVH_143_4-5674999_V1_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_KE700659.1 Escherichia coli HVH 186 (4-3405044) genomic scaffold acYzO-supercont1.1, whole genome shotgun sequence",GCF_000458785.1_Esch_coli_HVH_186_4-3405044_V1_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_JSKK01000001.1 Escherichia coli strain upec-229 upec-229_ctg_100, whole genome shotgun sequence",GCF_000776715.1_ASM77671v1_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_JSOZ01000001.1 Escherichia coli strain upec-101 upec-101_ctg_1015, whole genome shotgun sequence",GCF_000779055.1_ASM77905v1_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_JSRE01000001.1 Escherichia coli strain blood-09-0829 blood-09-0829_ctg_719, whole genome shotgun sequence",GCF_000781965.1_ASM78196v1_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_JHRJ01000001.1 Escherichia coli strain 303289 303289_1, whole genome shotgun sequence",GCF_001267345.1_303289_genomic.fna.gz.sig
+0.5099999904632568,0.5099999904632568,"NZ_LQWF01000001.1 Escherichia coli strain GN04075 GCID_ECOLID_00161_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001521595.1_ASM152159v1_genomic.fna.gz.sig
+0.5080000162124634,0.5080000162124634,"NZ_ANYR01000001.1 Escherichia coli KTE180 acwpb-supercont1.1, whole genome shotgun sequence",GCF_000326805.1_Esch_coli_KTE180_V1_genomic.fna.gz.sig
+0.5080000162124634,0.5080000162124634,"NZ_KE700584.1 Escherichia coli HVH 180 (4-3051617) genomic scaffold acYzq-supercont1.1, whole genome shotgun sequence",GCF_000458685.1_Esch_coli_HVH_180_4-3051617_V1_genomic.fna.gz.sig
+0.5080000162124634,0.5080000162124634,"NZ_JXWE01000001.1 Escherichia coli strain OLC-733 Cont0001, whole genome shotgun sequence",GCF_000948835.1_ASM94883v1_genomic.fna.gz.sig
+0.5080000162124634,0.5080000162124634,"NZ_LQTH01000001.1 Escherichia coli strain GN02363 GCID_ECOLID_00047_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001520295.1_ASM152029v1_genomic.fna.gz.sig
+0.5080000162124634,0.5080000162124634,"NZ_LQUY01000001.1 Escherichia coli strain GN02657 GCID_ECOLID_00100_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001520635.1_ASM152063v1_genomic.fna.gz.sig
+0.5059999823570251,0.5059999823570251,"NZ_KB733439.1 Escherichia coli KTE173 genomic scaffold acASm-supercont1.1, whole genome shotgun sequence",GCF_000352845.1_Esch_coli_KTE173_V1_genomic.fna.gz.sig
+0.5059999823570251,0.5059999823570251,"NZ_KE702025.1 Escherichia coli UMEA 3206-1 genomic scaffold acYwZ-supercont1.1, whole genome shotgun sequence",GCF_000460795.1_Esch_coli_UMEA_3206-1_V1_genomic.fna.gz.sig
+0.5059999823570251,0.5059999823570251,"NZ_AYOO01000001.1 Escherichia coli LAU-EC3 contig_1, whole genome shotgun sequence",GCF_000498815.2_EC3_genomic.fna.gz.sig
+0.5059999823570251,0.5059999823570251,"NZ_JORM01000001.1 Escherichia coli 6-319-05_S3_C3 e631905S3C3.contig.0_1, whole genome shotgun sequence",GCF_000713185.1_ASM71318v1_genomic.fna.gz.sig
+0.5059999823570251,0.5059999823570251,"NZ_KQ087991.1 Escherichia coli strain BIDMC114 genomic scaffold aetzT-supercont1.1, whole genome shotgun sequence",GCF_001030665.1_Esch_coli_BIDMC114_V1_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_ANYE01000001.1 Escherichia coli KTE148 acwoC-supercont1.1, whole genome shotgun sequence",GCF_000326365.1_Esch_coli_KTE148_V1_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_KI535391.1 Escherichia coli BIDMC 38 genomic scaffold addSN-supercont1.1, whole genome shotgun sequence",GCF_000492255.1_Esch_coli_BIDMC_38_V1_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_JSLC01000001.1 Escherichia coli strain upec-209 upec-209_ctg_10, whole genome shotgun sequence",GCF_000778465.1_ASM77846v1_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_JVUL01000120.1 Escherichia coli strain 1307.rep2_ECOL 1004_216_2206, whole genome shotgun sequence",GCF_001053305.1_ASM105330v1_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_JHTA01000001.1 Escherichia coli strain 302312 302312_1, whole genome shotgun sequence",GCF_001266255.1_302312_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_LASE01000001.1 Escherichia coli strain VACI-14 VACI_14_1, whole genome shotgun sequence",GCF_001448025.1_ASM144802v1_genomic.fna.gz.sig
+0.5040000081062317,0.5040000081062317,"NZ_LNIP01000001.1 Escherichia coli strain 50870281 contig1, whole genome shotgun sequence",GCF_001463455.1_ASM146345v1_genomic.fna.gz.sig
+0.5019999742507935,0.5019999742507935,"NC_007946.1 Escherichia coli UTI89, complete genome",GCF_000013265.1_ASM1326v1_genomic.fna.gz.sig
+0.5019999742507935,0.5019999742507935,"NZ_KE701947.1 Escherichia coli UMEA 3193-1 genomic scaffold acYyg-supercont1.1, whole genome shotgun sequence",GCF_000460695.1_Esch_coli_UMEA_3193-1_V1_genomic.fna.gz.sig
+0.5019999742507935,0.5019999742507935,"NZ_JSKU01000001.1 Escherichia coli strain upec-219 upec-219_ctg_1380, whole genome shotgun sequence",GCF_000778725.1_ASM77872v1_genomic.fna.gz.sig
+0.5019999742507935,0.5019999742507935,"NZ_LQUO01000001.1 Escherichia coli strain GN02567 GCID_ECOLID_00085_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001519935.1_ASM151993v1_genomic.fna.gz.sig
+0.5,0.5,"NZ_APNU01000001.1 Escherichia coli HM27 HM27_1, whole genome shotgun sequence",GCF_000387825.2_ASM38782v2_genomic.fna.gz.sig
+0.5,0.5,"NZ_KE701738.1 Escherichia coli UMEA 3160-1 genomic scaffold acYyl-supercont1.1, whole genome shotgun sequence",GCF_000460435.1_Esch_coli_UMEA_3160-1_V1_genomic.fna.gz.sig
+0.5,0.5,"NZ_JJNT01000001.1 Escherichia coli strain 2009-46 scaffold10.1, whole genome shotgun sequence",GCF_000696545.1_v1_genomic.fna.gz.sig
+0.5,0.5,"NZ_JHSB01000001.1 Escherichia coli strain 300214 300214_1, whole genome shotgun sequence",GCF_001265765.1_300214_genomic.fna.gz.sig
+0.5,0.5,"NZ_LJXZ01000001.1 Escherichia coli strain UCD-JA19 scaffold_0, whole genome shotgun sequence",GCF_001306585.1_ASM130658v1_genomic.fna.gz.sig
+0.49799999594688416,0.49799999594688416,"NZ_JSKC01000004.1 Escherichia coli strain upec-237 upec-237_ctg_1073, whole genome shotgun sequence",GCF_000778335.1_ASM77833v1_genomic.fna.gz.sig
+0.49799999594688416,0.49799999594688416,"NZ_LELX01000021.1 Escherichia coli strain LSPQ A134697 NODE_1, whole genome shotgun sequence",GCF_001262455.1_ASM126245v1_genomic.fna.gz.sig
+0.4959999918937683,0.4959999918937683,"NZ_LRVT01000001.1 Escherichia coli strain 3019 Contig_1, whole genome shotgun sequence",GCF_001561175.1_ASM156117v1_genomic.fna.gz.sig
+0.49399998784065247,0.49399998784065247,"NZ_KQ087857.1 Escherichia coli strain BIDMC97 genomic scaffold aetAr-supercont1.1, whole genome shotgun sequence",GCF_001030445.1_Esch_coli_BIDMC97_V1_genomic.fna.gz.sig
+0.492000013589859,0.492000013589859,"NZ_JJLN01000001.1 Escherichia coli 2-005-03_S4_C2 e200503S4C2.contig.0_1, whole genome shotgun sequence",GCF_000627195.1_ASM62719v1_genomic.fna.gz.sig
+0.492000013589859,0.492000013589859,"NZ_LQRV01000001.1 Escherichia coli strain GN02005 GCID_ECOLID_00002_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001519135.1_ASM151913v1_genomic.fna.gz.sig
+0.492000013589859,0.492000013589859,"NZ_LRWC01000001.1 Escherichia coli strain B26 Contig_1, whole genome shotgun sequence",GCF_001561335.1_ASM156133v1_genomic.fna.gz.sig
+0.49000000953674316,0.49000000953674316,"NZ_JSPU01000002.1 Escherichia coli strain blood-10-1607 blood-10-1607_ctg_3216, whole genome shotgun sequence",GCF_000779775.1_ASM77977v1_genomic.fna.gz.sig
+0.49000000953674316,0.49000000953674316,"NZ_LRWS01000001.1 Escherichia coli strain B94 Contig_1, whole genome shotgun sequence",GCF_001561515.1_ASM156151v1_genomic.fna.gz.sig
+0.4880000054836273,0.4880000054836273,"NZ_KE700855.1 Escherichia coli HVH 202 (4-3163997) genomic scaffold acYyJ-supercont1.1, whole genome shotgun sequence",GCF_000459095.1_Esch_coli_HVH_202_4-3163997_V1_genomic.fna.gz.sig
+0.4880000054836273,0.4880000054836273,"NZ_JSPT01000002.1 Escherichia coli strain blood-10-1610 blood-10-1610_ctg_1318, whole genome shotgun sequence",GCF_000779935.1_ASM77993v1_genomic.fna.gz.sig
+0.4880000054836273,0.4880000054836273,"NZ_LQUJ01000001.1 Escherichia coli strain GN02545 GCID_ECOLID_00080_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001520695.1_ASM152069v1_genomic.fna.gz.sig
+0.4860000014305115,0.4860000014305115,"NZ_JSGZ01000004.1 Escherichia coli strain upec-65 upec-65_ctg_10253, whole genome shotgun sequence",GCF_000776615.1_ASM77661v1_genomic.fna.gz.sig
+0.4860000014305115,0.4860000014305115,"NZ_LQTX01000001.1 Escherichia coli strain GN02448 GCID_ECOLID_00065_NODE_1.ctg_1, whole genome shotgun sequence",GCF_001521055.1_ASM152105v1_genomic.fna.gz.sig
+0.4819999933242798,0.4819999933242798,"NZ_JOSU01000001.1 Escherichia coli 2-460-02_S1_C2 e246002S1C2.contig.0_1, whole genome shotgun sequence",GCF_000713865.1_ASM71386v1_genomic.fna.gz.sig
+0.47999998927116394,0.47999998927116394,"NC_008563.1 Escherichia coli APEC O1, complete genome",GCF_000014845.1_ASM1484v1_genomic.fna.gz.sig
+0.47999998927116394,0.47999998927116394,"NZ_GL883892.1 Escherichia coli M605 genomic scaffold supercont1.1, whole genome shotgun sequence",GCF_000176555.2_ASM17655v2_genomic.fna.gz.sig
+0.2460000067949295,0.2460000067949295,"NZ_BBVS01000001.1 Escherichia albertii DNA, contig: CB9791contig0001, strain: CB9791, whole genome shotgun sequence",GCF_001514845.1_ASM151484v1_genomic.fna.gz.sig
+0.23999999463558197,0.23999999463558197,"NZ_BBVN01000001.1 Escherichia albertii DNA, contig: NIAH_Bird_25contig0001, strain: NIAH_Bird_25, whole genome shotgun sequence",GCF_001514745.1_ASM151474v1_genomic.fna.gz.sig
+0.22599999606609344,0.22599999606609344,"NZ_BBVU01000001.1 Escherichia albertii DNA, contig: EC03-127contig0001, strain: EC03-127, whole genome shotgun sequence",GCF_001514885.1_ASM151488v1_genomic.fna.gz.sig
+0.22599999606609344,0.22599999606609344,"NZ_BBVY01000001.1 Escherichia albertii DNA, contig: EC05-81contig0001, strain: EC05-81, whole genome shotgun sequence",GCF_001514965.1_ASM151496v1_genomic.fna.gz.sig
